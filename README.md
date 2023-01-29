@@ -1,3 +1,2 @@
-# DUL-SLAM
-This repository contains the dataset and the source for "DUL-SLAM: Distributed Ultra-wideband and LiDAR SLAM for Multiple Robots".
-The dataset and code will be realeased after the acceptance of the paper.
+# D-UWB-SLAM
+This repository contains the ROS bag file for "D-UWB-SLAM: Distributed Ultra-Wideband Assisted LiDAR SLAM for Multiple Robots", which is submitted to the IEEE Journal on Selected Areas in Communications (JSAC) for review.
